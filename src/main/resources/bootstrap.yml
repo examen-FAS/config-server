@@ -9,7 +9,7 @@ spring:
           uri: https://github.com/examen-FAS/config-data.git
           username: Mugarte-cba
           password: Abc07110511ab
-          default-label: "dev/miguel"
+          default-label: "main"
 
   security:
     user:
